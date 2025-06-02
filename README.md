@@ -47,7 +47,8 @@ This is ideal for cost-saving or scheduled automation tasks.
 3. Name: ManageEC2ByTag_tanuj
 4. Assign the IAM role you created above.
 5. Lambda Code
-   You can use the file for reference.
+   You can use the below file for reference.<br>
+   [lambda_function.py](https://github.com/tanujbhatia24/Instance_Management/blob/main/lambda_function.py)
 ---
 
 ### 4. Test the Function
