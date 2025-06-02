@@ -77,3 +77,7 @@ This is ideal for cost-saving or scheduled automation tasks.
 5. EC2 instances after Lambda execution<br>
    ![image](https://github.com/user-attachments/assets/b3bf03ca-14c3-4494-8a84-d4b5326d390f)<br>
    ![image](https://github.com/user-attachments/assets/b92d8739-86c4-47a8-bc0a-d49e08b8be29)
+---
+
+## License
+This project is intended for educational and demonstration purposes. You are welcome to use and adapt it as a reference; however, please ensure that your work represents your own understanding and is not reproduced verbatim.
