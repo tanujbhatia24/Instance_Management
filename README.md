@@ -1,4 +1,4 @@
-# Automated EC2 Instance Management with AWS Lambda and Boto3
+# Assignment 1: Automated EC2 Instance Management with AWS Lambda and Boto3
 This project automates the **starting** and **stopping** of EC2 instances using **AWS Lambda** and **Boto3**, based on instance tags.
 ---
 
